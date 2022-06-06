@@ -1,4 +1,4 @@
 <div align="center">
-	<img align="left" src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" width="250"/>
-	<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soaresgabe&theme=tokyonight&hide_border=true"/>
+	<img align="center" src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" width="250"/>
+	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soaresgabe&theme=tokyonight&hide_border=true"/>
 </div>
