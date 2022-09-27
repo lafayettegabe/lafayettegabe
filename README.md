@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soaresgabe&langs_count=4&layout=compact"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soaresgabe&langs_count=4&hide=css&layout=compact"/>
 
 ### Gabriel A. Soares
 
