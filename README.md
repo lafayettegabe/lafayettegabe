@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soaresgabe&langs_count=4&hide=html&layout=compact"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soaresgabe&langs_count=4&hide=html,jupyter%20notebook,batchfile&layout=compact"/>
 
 ### Gabriel A. Soares
 
