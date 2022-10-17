@@ -3,7 +3,7 @@
 ### Gabriel A. Soares
 
 A brazilian <img src='https://flagcdn.com/16x12/br.png' alt="BR" /> computer engineering student 🤖 at [UERGS](https://www.uergs.edu.br/inicial) 🏛️
-<br />⠀⠀• 👨‍💻 My projects are available at: [soaresgabe.github.io](https://soaresgabe.github.io/)
+<br />⠀⠀• 👨‍💻 My projects are available at: [soaresgabe.github.io](https://soaresgabe.github.io/) (todo)
 
 ##
 
