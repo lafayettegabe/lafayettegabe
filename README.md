@@ -9,8 +9,6 @@ A brazilian <img src='https://flagcdn.com/16x12/br.png' alt="BR" /> computer eng
 
 <a href="https://www.linkedin.com/in/gabriel-soares-a27998101/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<img src="[https://github-readme-activity-graph.cyclic.app/graph?username=](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soaresgabe" />
-
 ##
 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
