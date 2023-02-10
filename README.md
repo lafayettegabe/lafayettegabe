@@ -3,7 +3,13 @@
 ### Gabriel A. Soares
 
 A brazilian <img src='https://flagcdn.com/16x12/br.png' alt="BR" /> computer engineering student 🤖 at [UERGS](https://www.uergs.edu.br/inicial) 🏛️
+<br />⠀⠀• 🔭 I’m currently working on [Argo Studios](https://github.com/ArgoStudios)
+<br />⠀⠀• 👯 I’m looking to collaborate on [Whatsapp Status](https://github.com/soaresgabe/whatsapp-status)
 <br />⠀⠀• 👨‍💻 My projects are available at: [soaresgabe.github.io](https://soaresgabe.github.io/) (todo)
+
+<a href="https://www.linkedin.com/in/gabriel-soares-a27998101/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+<img src="[https://github-readme-activity-graph.cyclic.app/graph?username=](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soaresgabe" />
 
 ##
 
