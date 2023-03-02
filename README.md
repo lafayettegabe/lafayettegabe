@@ -3,7 +3,7 @@
 ### Gabriel A. Soares
 
 A brazilian <img src='https://flagcdn.com/16x12/br.png' alt="BR" /> computer engineering student 🤖 at [UERGS](https://www.uergs.edu.br/inicial) 🏛️
-<br />⠀⠀• 🔭 I’m currently working for [Ubots](https://ubots.com.br/)
+<br />⠀⠀• 🔭 I’m currently working at [Ubots](https://ubots.com.br/)
 <br />⠀⠀• 🌱 I’m currently learning NLP
 <br />⠀⠀• 🤝 I’m looking for help with [Whatsapp Status](https://github.com/soaresgabe/whatsapp-status)
 <br />⠀⠀• 👨‍💻 My projects are available at: [soaresgabe.github.io](https://soaresgabe.github.io/) (todo)
