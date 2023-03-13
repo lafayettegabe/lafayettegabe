@@ -1,19 +1,16 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=soaresgabe&show_icons=true"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soaresgabe&langs_count=4&hide=html,batchfile,css&layout=compact"/>
 
 ### Gabriel A. Soares
-
 A brazilian <img src='https://flagcdn.com/16x12/br.png' alt="BR" /> computer engineering student 🤖 at [UERGS](https://www.uergs.edu.br/inicial) 🏛️
 <br />⠀⠀• 🔭 I’m currently working at [Ubots](https://ubots.com.br/)
 <br />⠀⠀• 🌱 I’m currently learning NLP
 <br />⠀⠀• 🤝 I’m looking for help with [Whatsapp Status](https://github.com/soaresgabe/whatsapp-status)
 <br />⠀⠀• 👨‍💻 My projects are available at: [soaresgabe.github.io](https://soaresgabe.github.io/) (todo)
 
-<br />
-
 <div align=center>
   <a href="https://www.linkedin.com/in/gabriel-soares-a27998101/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
-  
+
 ##
 <div align="center">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
@@ -52,3 +49,5 @@ A brazilian <img src='https://flagcdn.com/16x12/br.png' alt="BR" /> computer eng
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
 </a>
 </div>
+
+
