@@ -1,3 +1,5 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=soaresgabe&show_icons=true&card_width=200&count_private=true&include_all_commits=true&hide_title=false"/>
+
 ### Gabriel A. Soares
 A brazilian <img src='https://flagcdn.com/16x12/br.png' alt="BR" /> computer engineering student 🤖 at [UERGS](https://www.uergs.edu.br/inicial) 🏛️
 <br />⠀⠀• 🔭 I’m currently working at [Ubots](https://ubots.com.br/)
