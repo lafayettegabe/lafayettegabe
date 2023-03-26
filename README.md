@@ -5,9 +5,16 @@ A brazilian <img src='https://flagcdn.com/16x12/br.png' alt="BR" /> computer eng
 <br />⠀⠀• 🔭 I’m currently working at [Ubots](https://ubots.com.br/)
 <br />⠀⠀• 🌱 I’m currently learning NLP
 <br />⠀⠀• 👨‍💻 My projects are available at: [soaresgabe.github.io](https://soaresgabe.github.io/)
+<br />
+<br />
+<br />
 
 <div align=center>
-  <a href="https://www.linkedin.com/in/gabriel-soares-a27998101/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/nolongergabe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nolongergabe" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gabriel-soares-a27998101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel-soares-a27998101" height="30" width="40" /></a>
+<a href="https://fb.com/soaresgabee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="soaresgabee" height="30" width="40" /></a>
+<a href="https://instagram.com/soaresgabe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="soaresgabe" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@soaresgabe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@soaresgabe" height="30" width="40" /></a>
 </div>
 
 ##
@@ -19,9 +26,6 @@ A brazilian <img src='https://flagcdn.com/16x12/br.png' alt="BR" /> computer eng
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-</a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
 </a>⠀⠀⠀
 <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
