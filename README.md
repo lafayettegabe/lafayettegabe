@@ -45,8 +45,8 @@ fn main() {
 
 ## 🗂️ Highlight Projects
 
-<a href="https://github.com/soaresgabe/uergs-algorithms">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=soaresgabe&repo=uergs-algorithms&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="uergs-algorithms" />
+<a href="https://github.com/soaresgabe/whatsapp-status">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=soaresgabe&repo=whatsapp-status&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="whatsapp-status" />
 </a>
 
 <a href="https://github.com/soaresgabe/uergs-machine-learning">
