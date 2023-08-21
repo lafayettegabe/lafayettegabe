@@ -42,16 +42,6 @@ fn main() {
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-AWS-informational?style=flat&logo=aws&logoColor=white&color=6aa6f8)
 
-## 🗂️ Highlight Projects
-
-<a href="https://github.com/soaresgabe/uergs-algorithms">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=soaresgabe&repo=uergs-algorithms&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="uergs-algorithms" />
-</a>
-
-<a href="https://github.com/soaresgabe/uergs-machine-learning">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=soaresgabe&repo=uergs-machine-learning&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="uergs-machine-learning" />
-</a>
-
 ##
 <div align=center>
 <a href="https://twitter.com/nolongergabe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nolongergabe" height="30" width="40" /></a>
