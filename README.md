@@ -1,5 +1,3 @@
-## 🔧 Technologies & Tools
-
 ![](https://img.shields.io/badge/OS-Arch%20Linux-informational?style=flat&logo=archlinux&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Editor-Neovim-informational?style=flat&logo=neovim&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=6aa6f8)
