@@ -1,33 +1,3 @@
-```rust
-struct SoftwareEngineer {
-    name: String,
-    role: String,
-    company: String,
-    language_spoken: Vec<String>,
-}
-
-impl SoftwareEngineer {
-    fn new() -> Self {
-        SoftwareEngineer {
-            name: "Gabriel Soares".to_string(),
-            role: "CEO & Co-Founder".to_string(),
-            company: "Daedalus Labs".to_string(),
-            language_spoken: vec!["pt_BR".to_string(), "en_US".to_string()],
-        }
-    }
-
-    fn say_hi(&self) {
-        println!("Thanks for dropping by, hope you find some of my work interesting.");
-    }
-}
-
-fn main() {
-    let me = SoftwareEngineer::new();
-    me.say_hi();
-}
-
-```
-
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Arch%20Linux-informational?style=flat&logo=archlinux&logoColor=white&color=6aa6f8)
