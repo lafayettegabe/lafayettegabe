@@ -16,5 +16,5 @@
 ##
 
 <img src="https://github-readme-stats-nu-ten-26.vercel.app/api?username=lafayettegabe&theme=prussian&show_icons=true&card_width=200&count_private=true&include_all_commits=true&hide_title=false&&show=reviews"/>
-<img src="https://github-readme-stats-nu-ten-26.vercel.app/api/top-langs/?username=lafayettegabe&theme=prussian&layout=donut&include_all_commits=true&hide=jupyter%20notebook,makefile,css" />
+<img src="https://github-readme-stats-nu-ten-26.vercel.app/api/top-langs/?username=lafayettegabe&theme=prussian&layout=donut&include_all_commits=true&hide=jupyter%20notebook,makefile,css,html" />
 </div>
