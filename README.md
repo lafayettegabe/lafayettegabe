@@ -11,7 +11,7 @@
 ![Python](https://img.shields.io/badge/ML-Python-informational?style=flat&logo=python&logoColor=white&color=326CE5)
 ![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=326CE5)
 ![Kubernetes](https://img.shields.io/badge/Tools-K8s-informational?style=flat&logo=kubernetes&logoColor=white&color=326CE5)
-![PostgreSQL](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=326CE5)
+![Terraform](https://img.shields.io/badge/Tools-Terraform-informational?style=flat&logo=terraform&logoColor=white&color=326CE5)
 
 <img src="https://github-readme-stats-nu-ten-26.vercel.app/api?username=lafayettegabe&theme=prussian&show_icons=true&count_private=true&include_all_commits=true&hide_title=true"/>
 <img src="https://github-readme-stats-nu-ten-26.vercel.app/api/top-langs/?username=lafayettegabe&theme=prussian&layout=compact&include_all_commits=true&hide=makefile,css,html" />
