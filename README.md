@@ -18,7 +18,4 @@
     <img src="https://github-readme-stats-nu-ten-26.vercel.app/api?username=lafayettegabe&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true&hide_title=true"/>
     <img src="https://github-readme-stats-nu-ten-26.vercel.app/api/top-langs/?username=lafayettegabe&theme=tokyonight&layout=compact&include_all_commits=true&hide=jupyter%20notebook,makefile,css,html" />
     </div>
-  <div style="flex: 1; flex-direction: row; width: 100%">
-    <img height="180em" src="https://streak-stats.demolab.com/?user=lafayettegabe&count_private=false&theme=tokyonight"/>
-  </div>
 </div>
