@@ -13,6 +13,12 @@
 ![Kubernetes](https://img.shields.io/badge/Tools-K8s-informational?style=flat&logo=kubernetes&logoColor=white&color=326CE5)
 ![Terraform](https://img.shields.io/badge/Tools-Terraform-informational?style=flat&logo=terraform&logoColor=white&color=326CE5)
 
-<img src="https://github-readme-stats-nu-ten-26.vercel.app/api?username=lafayettegabe&theme=prussian&show_icons=true&count_private=true&include_all_commits=true&hide_title=true"/>
-<img src="https://github-readme-stats-nu-ten-26.vercel.app/api/top-langs/?username=lafayettegabe&theme=prussian&layout=compact&include_all_commits=true&hide=jupyter%20notebook,makefile,css,html" />
+<div align="center" style="flex: 1;  flex-direction: column; width: 100%">
+  <div style="flex: 1; flex-direction: row; width: 100%">
+    <img src="https://github-readme-stats-nu-ten-26.vercel.app/api?username=lafayettegabe&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true&hide_title=true"/>
+    <img src="https://github-readme-stats-nu-ten-26.vercel.app/api/top-langs/?username=lafayettegabe&theme=tokyonight&layout=compact&include_all_commits=true&hide=jupyter%20notebook,makefile,css,html" />
+    </div>
+  <div style="flex: 1; flex-direction: row; width: 100%">
+    <img height="180em" src="https://streak-stats.demolab.com/?user=lafayettegabe&count_private=false&theme=tokyonight"/>
+  </div>
 </div>
