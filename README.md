@@ -16,6 +16,6 @@
 <div align="center" style="flex: 1;  flex-direction: column; width: 100%">
   <div style="flex: 1; flex-direction: row; width: 100%">
     <img src="https://github-readme-stats-nu-ten-26.vercel.app/api?username=lafayettegabe&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true&hide_title=true"/>
-    <img src="https://github-readme-stats-nu-ten-26.vercel.app/api/top-langs/?username=lafayettegabe&theme=tokyonight&layout=compact&include_all_commits=true&hide=jupyter%20notebook,makefile,css,html,ejs,lua,java&langs_count=6" />
+    <img src="https://github-readme-stats-nu-ten-26.vercel.app/api/top-langs/?username=lafayettegabe&theme=tokyonight&layout=compact&include_all_commits=true&hide=jupyter%20notebook,makefile,css,html,ejs,lua&langs_count=6" />
     </div>
 </div>
