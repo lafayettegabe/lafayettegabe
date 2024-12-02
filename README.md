@@ -4,7 +4,7 @@
   
 ##
 
-![NixOS](https://img.shields.io/badge/OS-NixOS-informational?style=flat&logo=nixos&logoColor=white&color=326CE5)
+![NixOS](https://img.shields.io/badge/OS-Arch%20Linux-informational?style=flat&logo=archlinux&logoColor=white&color=326CE5)
 ![Neovim](https://img.shields.io/badge/Editor-Neovim-informational?style=flat&logo=neovim&logoColor=white&color=326CE5)
 ![Rust](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=326CE5)
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=326CE5)
