@@ -26,7 +26,6 @@
           <li>🔓 Penetration testing</li>
           <li>🎯 Bug bounty hunting</li>
           <li>⚔️ Red team</li>
-          <li>🧪 Malware research (mainly C2 frameworks)</li>
         </ul>
       </div>
     </td>
