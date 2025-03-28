@@ -39,16 +39,15 @@
 ### 📝 Latest Blog Posts
 
 <!--START_SECTION:blog-posts-->
--   2025-03-27 [Lorem Markdownum](http://lafayettegabe.me/post/lorem_markdownum/)
 <!--END_SECTION:blog-posts-->
 
 ##
 
-### 🛠️ Active Projects  
+### 🛠️ Active Projects
 
-*Rust-based adversarial tooling for security research*
+_Rust-based adversarial tooling for security research_
 
-[![keylogger-rs](https://github-readme-stats.vercel.app/api/pin/?username=lafayettegabe&repo=keylogger-rs&theme=dark&show_owner=true)](https://github.com/lafayettegabe/keylogger-rs)  
+[![keylogger-rs](https://github-readme-stats.vercel.app/api/pin/?username=lafayettegabe&repo=keylogger-rs&theme=dark&show_owner=true)](https://github.com/lafayettegabe/keylogger-rs)
 
 ##
 
