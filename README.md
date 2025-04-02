@@ -43,14 +43,6 @@
 
 ##
 
-### 🛠️ Active Projects
-
-_Rust-based adversarial tooling for security research_
-
-[![keylogger-rs](https://github-readme-stats.vercel.app/api/pin/?username=lafayettegabe&repo=keylogger-rs&theme=dark&show_owner=true)](https://github.com/lafayettegabe/keylogger-rs)
-
-##
-
 <div align=center>
   
 [![Proton Mail](https://img.shields.io/badge/ProtonMail-8B89CC?style=flat&logo=protonmail&logoColor=white)](mailto:gabriel.lafayette@proton.me)
