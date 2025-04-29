@@ -25,7 +25,6 @@
         <ul style="list-style: none; padding-left: 0; margin-left: 0;">
           <li>🔓 Penetration testing</li>
           <li>🎯 Bug bounty hunting</li>
-          <li>⚔️ Red team</li>
         </ul>
       </div>
     </td>
