@@ -2,38 +2,6 @@
 
 ##
 
-<div align=center>
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <div align=left>
-        <h3>🧑‍💻 By Day</h3>
-        <p><strong>Software Engineer</strong> at <a href="https://www.linkedin.com/company/wiselife-oficial">WiseLife</a></p>
-        <p>Specializing in:</p>
-        <ul>
-          <li>🖥️ Fullstack development (React/C#/Python)</li>
-          <li>📱 Mobile apps (React Native/Expo)</li>
-          <li>☁️ DevOps (AWS/Terraform/Docker)</li>
-        </ul>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-    <div align=left>
-        <h3>🥷 By Night</h3>
-        <p><strong>Offensive Security Practitioner</strong> via <a href="https://academy.hackthebox.com/">HTB CPTS</a></p>
-        <p>Focus areas:</p>
-        <ul style="list-style: none; padding-left: 0; margin-left: 0;">
-          <li>🔓 Penetration testing</li>
-          <li>🎯 Bug bounty hunting</li>
-        </ul>
-      </div>
-    </td>
-  </tr>
-</table>
-</div>
-
-##
-
 ### 📝 Latest Blog Posts
 
 <!--START_SECTION:blog-posts-->
